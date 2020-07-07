@@ -1,0 +1,9 @@
+{
+    "name": "BlueBox-Wolff Flutter CI Workflow",
+    "description": "BlueBox-Wolff Flutter CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Dart",
+        "Flutter"
+    ]
+}
