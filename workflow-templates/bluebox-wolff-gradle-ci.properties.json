@@ -1,0 +1,10 @@
+{
+    "name": "BlueBox-Wolff Gradle CI Workflow",
+    "description": "BlueBox-Wolff Gradle CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java",
+        "Kotlin",
+        "Gradle"
+    ],
+}
