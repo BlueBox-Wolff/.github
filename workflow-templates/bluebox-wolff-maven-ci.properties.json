@@ -1,0 +1,10 @@
+{
+    "name": "BlueBox-Wolff Maven CI Workflow",
+    "description": "BlueBox-Wolff Maven CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java",
+        "Kotlin",
+        "Maven"
+    ]
+}
